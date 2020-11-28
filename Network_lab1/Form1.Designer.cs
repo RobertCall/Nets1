@@ -68,7 +68,7 @@
             // 
             // Send_Button
             // 
-            this.Send_Button.Location = new System.Drawing.Point(446, 282);
+            this.Send_Button.Location = new System.Drawing.Point(547, 282);
             this.Send_Button.Name = "Send_Button";
             this.Send_Button.Size = new System.Drawing.Size(75, 23);
             this.Send_Button.TabIndex = 2;
@@ -190,7 +190,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(800, 454);
             this.Controls.Add(this.Client_progressBar);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.Server_Port_textBox);

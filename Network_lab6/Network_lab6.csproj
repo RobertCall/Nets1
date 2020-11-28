@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3ED51A47-5DD7-4CDA-9252-BC8C665A8F16}</ProjectGuid>
+    <ProjectGuid>{CBBF0EF3-F05A-4174-803E-52BAFEEEB7BB}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Network_lab1</RootNamespace>
-    <AssemblyName>Network_lab1</AssemblyName>
+    <RootNamespace>Network_lab6</RootNamespace>
+    <AssemblyName>Network_lab6</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -35,7 +35,6 @@
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Core" />
-    <Reference Include="System.DirectoryServices" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
